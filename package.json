@@ -1,0 +1,16 @@
+{
+  "name": "HomeWork 1 - Nodejs Master Class",
+  "version": "0.0.1",
+  "license": 
+	{
+		"type" : "GPL-3.0-only",
+		"url" : "https://opensource.org/licenses/GPL-3.0"
+
+	},
+  "private": "true",
+  "description": "RESTful API , when someone posts in the route /hello, RESTful API response with a mesagge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
